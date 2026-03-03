@@ -1,104 +1,128 @@
-# Luminus Labs
-
-*Curiosity. Code. Craft.*
-
----
-
-## About
-
-Luminus Labs is a human-scale workshop where ideas are sketched, tested, and refined. A team of creators building honest tools at the intersection of design and engineering.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Curiosity.+Code.+Craft." alt="Typing SVG" />
+  <br/>
+  <p><em>A human-scale workshop building honest tools at the intersection of design and engineering.</em></p>
+</div>
 
 ---
 
-## The Team
+## => The Team <=
 
-### Oliver Lebaigue
-**Founder / Developer**
-Systems programmer and designer building honest tools at the intersection of code and craft.
+We are a small team of developers, designers, and testers. We believe in clarity over clutter and craft over scale.
 
-<a href="https://github.com/oliver-lebaigue-bright-bench">
-  <img src="https://github.com/oliver-lebaigue-bright-bench.png?size=150" alt="Oliver Lebaigue" width="75" height="75" style="border-radius: 50%; display: inline-block;">
-</a>
-
-### Felix (Cubezockii)
-**Developer**
-Creative developer focused on bringing innovative ideas to life through code.
-
-<a href="https://github.com/cubezockii">
-  <img src="https://github.com/cubezockii.png?size=150" alt="Felix" width="75" height="75" style="border-radius: 50%; display: inline-block;">
-</a>
-
-### Gethin Hughes
-**Tester / Outreach**
-Full-stack developer passionate about building robust and elegant solutions.
-
-<a href="https://github.com/gethin">
-  <img src="https://github.com/gething-hughes-pet-paths.png?size=150" alt="Gethin Hughes" width="75" height="75" style="border-radius: 50%; display: inline-block;">
-</a>
-
-### startrail
-**Graphic Design / Web Testing**
-Graphic designer and web-only tester bringing visual design and quality assurance to the team.
-
-<a href="https://github.com/hydrogen10234u4">
-  <img src="https://github.com/hydrogen10234u4.png?size=150" alt="startrail" width="75" height="75" style="border-radius: 50%; display: inline-block;">
-</a>
+<table>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/oliver-lebaigue-bright-bench">
+        <img src="https://github.com/oliver-lebaigue-bright-bench.png?size=120" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>Oliver Lebaigue</b></sub>
+      </a>
+    </td>
+    <td align="left">
+      <strong>Founder / Developer</strong><br/>
+      <span style="color: grey">Systems programmer and designer building honest tools at the intersection of code and craft.</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/cubezockii">
+        <img src="https://github.com/cubezockii.png?size=120" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>Felix (Cubezockii)</b></sub>
+      </a>
+    </td>
+    <td align="left">
+      <strong>Developer</strong><br/>
+      <span style="color: grey">Creative developer focused on bringing innovative ideas to life through code.</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/gething-hughes-pet-paths">
+        <img src="https://github.com/gething-hughes-pet-paths.png?size=120" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>Gethin Hughes</b></sub>
+      </a>
+    </td>
+    <td align="left">
+      <strong>Tester / Outreach</strong><br/>
+      <span style="color: grey">Full-stack developer passionate about building robust and elegant solutions.</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/hydrogen10234u4">
+        <img src="https://github.com/hydrogen10234u4.png?size=120" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>startrail</b></sub>
+      </a>
+    </td>
+    <td align="left">
+      <strong>Graphic Design / Web Testing</strong><br/>
+      <span style="color: grey">Bringing visual design and quality assurance to the team.</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Current Focus
+## => Current Focus: Flux-OS <=
 
-### Flux-OS
-*Active Development*
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Pre--Alpha-orange?style=for-the-badge" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Tech-C-informational?style=for-the-badge" alt="C Badge">
+  <img src="https://img.shields.io/badge/Tech-x86_Assembly-blueviolet?style=for-the-badge" alt="Assembly Badge">
+</p>
 
-Flux-OS is a 32-bit, hobbyist operating system written from scratch in C and x86 Assembly. It aims to be a "Nothing OS" inspired desktop environment—minimalist, typography-driven, and philosophically bare metal.
+**Flux-OS** is a 32-bit, hobbyist operating system written from scratch. It aims to be a "Nothing OS" inspired desktop environment—minimalist, typography-driven, and philosophically bare metal.
 
-**Vision:** To create a desktop experience that feels like a digital instrument cluster. No bloat. No clutter. Just raw interaction between user and machine.
-
-Currently in Pre-Alpha, the system boots successfully via GRUB into a protected-mode kernel. It features a custom software rasterizer (GFX) and a philosophy that exposes the Multiboot memory maps and interrupt descriptor tables to the user.
+### The Vision
+To create a desktop experience that feels like a digital instrument cluster. No bloat. No clutter. Just raw interaction between user and machine.
 
 > *"The void is not empty. It is full of potential."*
 
-[View Repository](https://github.com/luminus-labs/flux-os)
+The system currently boots via GRUB into a protected-mode kernel, featuring a custom software rasterizer (GFX) and a philosophy that exposes the raw beauty of Multiboot memory maps and interrupt descriptor tables.
+
+<div align="center">
+  <a href="https://github.com/luminus-labs/flux-os">
+    <img src="https://img.shields.io/badge/View_Repository-374151?style=for-the-badge&logo=github&logoColor=white" alt="Flux-OS Repo">
+  </a>
+</div>
 
 ---
 
-## Featured Projects
+## => Featured Projects <=
 
-### Flux-OS
-**Systems Programming / Assembly**
-A "Nothing OS" inspired desktop environment. Minimalist, typography-driven, and philosophically bare metal.
-
-### NextBeat
-**Social / Real-time**
-A social music platform built for moments, not algorithms. A democratic queue system where every guest contributes exactly one song.
-
-### Pet Paths
-**Community / Safety**
-A mapping tool that treats local experience as expertise. It turns fragmented knowledge about local routes into shared, useful safety data.
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A "Nothing OS" inspired desktop environment. Minimalist and philosophically bare metal. | `Systems` `Assembly` |
+| **NextBeat** | A social music platform built for moments, not algorithms. A democratic queue where every guest contributes one song. | `Social` `Real-time` |
+| **Pet Paths** | A mapping tool that treats local experience as expertise, turning fragmented knowledge into shared safety data. | `Community` `Safety` |
 
 ---
 
-## Our Approach
+## => Our Approach <=
 
-### ◉ Clarity & Restraint
-Interfaces that feel calm, intentional, and honest. Avoiding visual noise in favor of thoughtful simplicity, letting typography breathe.
-
-### ◈ Fundamentals First
-Respecting clean structure and maintainable code. Well-considered simplicity often outperforms unnecessary complexity.
-
-### ❖ Human Scale
-A workshop, not a factory. Every project is cared for deeply, with long hours spent refining small decisions rather than cutting corners.
-
----
-
-## Join the Community
-
-We're always looking for creative minds to join our workshop. If you're interested in building honest tools at the intersection of design and engineering, reach out and say hello.
-
-[Get in Touch](https://github.com/luminus-labs)
+<table>
+  <tr>
+    <td width="140" align="center"><h3>◉ Clarity</h3></td>
+    <td>Interfaces that feel calm, intentional, and honest. We avoid visual noise in favor of thoughtful simplicity, letting typography breathe.</td>
+  </tr>
+  <tr>
+    <td align="center"><h3>◈ Fundamentals</h3></td>
+    <td>We respect clean structure and maintainable code. Well-considered simplicity often outperforms unnecessary complexity.</td>
+  </tr>
+  <tr>
+    <td align="center"><h3>❖ Human Scale</h3></td>
+    <td>A workshop, not a factory. Every project is cared for deeply, with long hours spent refining small decisions rather than cutting corners.</td>
+  </tr>
+</table>
 
 ---
 
-© 2026 Luminus Labs. Built by the team with care.
-
+<div align="center">
+  <h3>=> 🤝 Join the Workshop <=</h3>
+  <p>We're always looking for creative minds. If you're interested in building honest tools, reach out and say hello.</p>
+  <a href="https://github.com/luminus-labs">
+    <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=github&logoColor=white" alt="Contact">
+  </a>
+  <br/><br/>
+  <sub>© 2026 Luminus Labs. Built by the team with care.</sub>
+</div>
