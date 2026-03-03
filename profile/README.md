@@ -16,25 +16,33 @@ Luminus Labs is a human-scale workshop where ideas are sketched, tested, and ref
 **Founder / Developer**
 Systems programmer and designer building honest tools at the intersection of code and craft.
 
-[<img src="https://github.com/oliver-lebaigue.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Oliver Lebaigue">](https://github.com/oliver-lebaigue)
+<a href="https://github.com/oliver-lebaigue-bright-bench">
+  <img src="https://github.com/oliver-lebaigue-bright-bench.png?size=150" alt="Oliver Lebaigue" width="75" height="75" style="border-radius: 50%; display: inline-block;">
+</a>
 
 ### Felix (Cubezockii)
 **Developer**
 Creative developer focused on bringing innovative ideas to life through code.
 
-[<img src="https://github.com/cubezockii.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Felix">](https://github.com/cubezockii)
+<a href="https://github.com/cubezockii">
+  <img src="https://github.com/cubezockii.png?size=150" alt="Felix" width="75" height="75" style="border-radius: 50%; display: inline-block;">
+</a>
 
 ### Gethin Hughes
 **Tester / Outreach**
 Full-stack developer passionate about building robust and elegant solutions.
 
-[<img src="https://github.com/gethin.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="Gethin Hughes">](https://github.com/gethin)
+<a href="https://github.com/gethin">
+  <img src="https://github.com/gething-hughes-pet-paths.png?size=150" alt="Gethin Hughes" width="75" height="75" style="border-radius: 50%; display: inline-block;">
+</a>
 
 ### startrail
 **Graphic Design / Web Testing**
 Graphic designer and web-only tester bringing visual design and quality assurance to the team.
 
-[<img src="https://github.com/hydrogen10234u4.png?size=100" width="100" height="100" style="border-radius: 50%;" alt="startrail">](https://github.com/hydrogen10234u4)
+<a href="https://github.com/hydrogen10234u4">
+  <img src="https://github.com/hydrogen10234u4.png?size=150" alt="startrail" width="75" height="75" style="border-radius: 50%; display: inline-block;">
+</a>
 
 ---
 
@@ -88,7 +96,7 @@ A workshop, not a factory. Every project is cared for deeply, with long hours sp
 
 We're always looking for creative minds to join our workshop. If you're interested in building honest tools at the intersection of design and engineering, reach out and say hello.
 
-[Get in Touch](mailto:hello@luminus-labs.org)
+[Get in Touch](https://github.com/luminus-labs)
 
 ---
 
