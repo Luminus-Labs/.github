@@ -95,7 +95,7 @@ The system currently boots via GRUB into a protected-mode kernel, featuring a cu
 
 | Project | Description | Focus | Website |
 | :--- | :--- | :--- | :--- |
-| **[LL website](https://github.com/luminus-labs/luminus-labs)** | Our website! | `Web` `Outreach` | **[Luminus Labs](https://luminus-labs.netlify.app)**
+| **[LL](https://github.com/luminus-labs/luminus-labs)** | Our website! | `Web` `Outreach` | **[Luminus Labs](https://luminus-labs.netlify.app)**
 | **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A "Nothing OS" inspired desktop environment. Minimalist and philosophically bare metal. | `Systems` `Assembly` | **[Flus-OS](https://flus-os.netlify.app)** |
 | **NextBeat** | A social music platform built for moments, not algorithms. A democratic queue where every guest contributes one song. | `Social` `Real-time` | No website yet: WIP |
 | **Pet Paths** | A mapping tool that treats local experience as expertise, turning fragmented knowledge into shared safety data. | `Community` `Safety` | **[Pet Paths](https://pet-paths.netlify.app)** |
