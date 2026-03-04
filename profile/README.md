@@ -96,11 +96,11 @@ The system currently boots via GRUB into a protected-mode kernel, featuring a cu
 
 ## Featured Projects
 
-| Project | Description | Focus |
+| Project | Description | Focus | Website
 | :--- | :--- | :--- |
-| **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A "Nothing OS" inspired desktop environment. Minimalist and philosophically bare metal. | `Systems` `Assembly` |
-| **NextBeat** | A social music platform built for moments, not algorithms. A democratic queue where every guest contributes one song. | `Social` `Real-time` |
-| **Pet Paths** | A mapping tool that treats local experience as expertise, turning fragmented knowledge into shared safety data. | `Community` `Safety` |
+| **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A "Nothing OS" inspired desktop environment. Minimalist and philosophically bare metal. | `Systems` `Assembly` | **[Flus-OS](https://flus-os.netlify.app)**
+| **NextBeat** | A social music platform built for moments, not algorithms. A democratic queue where every guest contributes one song. | `Social` `Real-time` | No website yet: WIP
+| **Pet Paths** | A mapping tool that treats local experience as expertise, turning fragmented knowledge into shared safety data. | `Community` `Safety` | **[Pet Paths](https://pet-paths.netlify.app)**
 
 ---
 
