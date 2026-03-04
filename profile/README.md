@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- REPLACE THIS WITH AN ACTUAL BANNER IMAGE IF YOU HAVE ONE -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Curiosity.+Code.+Craft." alt="Typing SVG" />
   
   <p><em>A human-scale workshop building honest tools at the intersection of design and engineering.</em></p>
   
-  <!-- Native Badges look cleaner than custom images -->
-  <img src="https://img.shields.io/badge/Status-Building-informational?style=flat-square" alt="Status">
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/adf28a54-aef9-4d5b-860c-901760c4c6ed/deploy-status)]
 </div>
 
 ---
@@ -14,7 +12,6 @@
 
 We are a small team of developers, designers, and testers. We believe in **clarity over clutter** and **craft over scale**.
 
-<!-- Cleaner Team Table with subtle borders -->
 <table>
   <tr>
     <td width="120" align="center">
@@ -98,6 +95,7 @@ The system currently boots via GRUB into a protected-mode kernel, featuring a cu
 
 | Project | Description | Focus | Website |
 | :--- | :--- | :--- | :--- |
+| **[LL website](https://github.com/luminus-labs/luminus-labs)** | Our website! | `Web` `Outreach` | **[Luminus Labs](https://luminus-labs.netlify.app)**
 | **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A "Nothing OS" inspired desktop environment. Minimalist and philosophically bare metal. | `Systems` `Assembly` | **[Flus-OS](https://flus-os.netlify.app)** |
 | **NextBeat** | A social music platform built for moments, not algorithms. A democratic queue where every guest contributes one song. | `Social` `Real-time` | No website yet: WIP |
 | **Pet Paths** | A mapping tool that treats local experience as expertise, turning fragmented knowledge into shared safety data. | `Community` `Safety` | **[Pet Paths](https://pet-paths.netlify.app)** |
