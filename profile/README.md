@@ -3,7 +3,7 @@
   
   <p><em>A human-scale workshop building honest tools at the intersection of design and engineering.</em></p>
   
-  ![Netlify Status](https://api.netlify.com/api/v1/badges/adf28a54-aef9-4d5b-860c-901760c4c6ed/deploy-status)](https://luminus-labs.netlify.app)
+  ![Netlify Status](https://api.netlify.com/api/v1/badges/adf28a54-aef9-4d5b-860c-901760c4c6ed/deploy-status)(https://luminus-labs.netlify.app)
 
 ## The Workshop
 
