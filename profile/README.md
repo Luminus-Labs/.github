@@ -14,8 +14,8 @@ We are a small team of developers, designers, and testers. We believe in **clari
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://github.com/oliver-lebaigue-bright-bench">
-        <img src="https://github.com/oliver-lebaigue-bright-bench.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+      <a href="https://github.com/oliver-lebaigue-2-bright-bench">
+        <img src="https://github.com/oliver-lebaigue-2-bright-bench.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
         <sub><b>Oliver Lebaigue</b></sub>
       </a>
     </td>
