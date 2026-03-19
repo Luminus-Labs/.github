@@ -38,6 +38,18 @@ We are a small team of developers, designers, and testers. We believe in **clari
   </tr>
   <tr>
     <td width="120" align="center">
+      <a href="https://github.com/aleks-levet">
+        <img src="https://github.com/aleks-levet.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>Aleks Levet</b></sub>
+      </a>
+    </td>
+    <td align="left">
+      <strong>Tester / Editor / Marketing</strong><br/>
+      <em>Testing and giving constructive feedback, also halps promote and do videos</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">
       <a href="https://github.com/gething-hughes-pet-paths">
         <img src="https://github.com/gething-hughes-pet-paths.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
         <sub><b>Gethin Hughes</b></sub>
