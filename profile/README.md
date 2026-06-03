@@ -44,7 +44,7 @@ We are a small team of developers, designers, and testers. We believe in **clari
       </a>
     </td>
     <td align="left">
-      <strong>Tester / Editor / Marketing</strong><br/>
+      <strong>Developer / Tester / Editor / Marketing</strong><br/>
       <em>Testing and giving constructive feedback, also halps promote and do videos</em>
     </td>
   </tr>
