@@ -75,7 +75,7 @@ We are a small team of developers, designers, and testers. We believe in **clari
   <tr>
     <td width="120" align="center">
       <a href="https://github.com/nivalos0">
-        <img dyc="https://github.com/nivalos0.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <img src="https://github.com/nivalos0.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
         <sub><b>nivalos0</b></sub>
     </td>
     <td align="left">
