@@ -149,7 +149,7 @@ The system currently boots via GRUB into a protected-mode kernel, featuring a cu
   <a href="https://github.com/luminus-labs">
     <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=github&logoColor=white" alt="contact on github">
   </a><br/>
-  <h3>or:</h3><
+  <h3>or:</h3>
   <a href="https://discord.gg/FSEqyNRRXa">
     <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=discord&logocolor=blue" alt="contact on discord">
   </a>
