@@ -72,6 +72,17 @@ We are a small team of developers, designers, and testers. We believe in **clari
       <em>Bringing visual design and quality assurance to the team.</em>
     </td>
   </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/nivalos0">
+        <img dyc="https://github.com/nivalos0.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>nivalos0</b>b></sub>
+    </td>
+    <td align="left">
+      <strong>Developer / Tester</strong><br/>
+      <em>Developer, making sure that eveyrthing is up to quality expectations and tester, making sure that everything works smoothly.</em>
+    </td>
+  </tr>
 </table>
 
 ---
