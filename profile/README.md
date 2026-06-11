@@ -147,7 +147,11 @@ The system currently boots via GRUB into a protected-mode kernel, featuring a cu
   <h3>Join the Workshop</h3>
   <p>We're always looking for creative minds. If you're interested in building honest tools, reach out.</p>
   <a href="https://github.com/luminus-labs">
-    <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=github&logoColor=white" alt="Contact">
+    <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=github&logoColor=white" alt="contact on github">
+  </a><br/>
+  <p>or:</p><br/>
+  <a href="https://discord.gg/FSEqyNRRXa">
+    <img src="https://img.shields.io/badge/Get_in_Touch-111111?style=for-the-badge&logo=discord&logocolor=blue" alt="contact on discord">
   </a>
   <br/><br/>
   <sub>© 2026 Luminus Labs. Built by the team with care.</sub>
