@@ -87,7 +87,7 @@ We are a small team of developers, designers, and testers. We believe in **clari
     <td width="120" align="center">
       <a href="https://github.com/gabibrawl">
         <img src="https://github.com/gabibrawl.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
-        <sub><b>nivalos0</b></sub>
+        <sub><b>GabiBrawl</b></sub>
     </td>
     <td align="left">
       <strong>Developer / graphics designer</strong><br/>
