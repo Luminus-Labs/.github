@@ -94,6 +94,17 @@ We are a small team of developers, designers, and testers. We believe in **clari
       <em>Developer and electronics enthusiat. I build everything from clean web solutions to custom hardware, all the creativity at the core.</em>
     </td>
   </tr>
+  <tr>
+    <td width="120" align="center">
+      <a href="https://github.com/cookiedcdev">
+        <img src="https://github.com/cookiedcdev.png?size=120&mask=circle" width="100" style="border-radius: 50%; border: 2px solid #555;"><br/>
+        <sub><b>Cookie</b></sub>
+    </td>
+    <td align="left">
+      <strong>Developer / Graphics designer / Tester / Outreach</strong><br/>
+      <em>A cookie, and a developer. Nothing more to say</em>
+    </td>
+  </tr>
 </table>
 
 ---
